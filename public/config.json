@@ -1,0 +1,211 @@
+{
+  "landing": {
+    "welcome": "welcome to my little thought...",
+    "title": "Hey You \ud83d\udc95",
+    "subtitle": "I wanted to do a tiny something because you mean a lot to me.",
+    "lastLine": "Tap below, okay? \u2728",
+    "button": "Open This \ud83d\udc96",
+    "footer": "Made with love (and a little courage) \ud83d\udc95",
+    "images": {
+      "background": {
+        "path": "imgs/intro1.png",
+        "resolution": {
+          "width": 1920,
+          "height": 1080
+        }
+      },
+      "buttonIcon": {
+        "path": "imgs/intro2.png",
+        "resolution": {
+          "width": 64,
+          "height": 64
+        }
+      }
+    }
+  },
+  "letter": {
+    "headerTitle": "A Litt le Note \ud83d\udc8c",
+    "headerSubtitle": "Straight from my heart",
+    "letterHeaderTitle": "Hey My Favorite Person",
+    "letterMessage": "Hey love,\n\nI may have messed up a bit. I never meant to hurt you, sometimes my brain trips over my heart. What I *do* know for sure is how much you matter to me.\n\nYou're incredibly special to me, and I hate the idea of being the reason you felt anything less than loved.\n\nThank you for being you. I hope this makes you smile, even just a little.",
+    "letterSignature": "Always yours \ud83d\udc95",
+    "envelopeClickHint": "Click to open",
+    "specialDeliveryText": "Just For You \ud83d\udc8c",
+    "continueButton": "Keep Going \u2728",
+    "images": {
+      "envelope": {
+        "path": "imgs/letter.png",
+        "resolution": {
+          "width": 512,
+          "height": 512
+        }
+      },
+      "letterBackground": {
+        "path": "imgs/intro2.png",
+        "resolution": {
+          "width": 1200,
+          "height": 1600
+        }
+      },
+      "headerDecoration": {
+        "path": "imgs/Aeroplane.png",
+        "resolution": {
+          "width": 800,
+          "height": 200
+        }
+      }
+    }
+  },
+  "chillZone": {
+    "heading": "Some Songs That Reminded Me of You",
+    "subheading": "Hope they feel nice",
+    "chooseTrackHint": "Pick one & vibe \u2728",
+    "continueButton": "Next \u2728",
+    "tracks": [
+      {
+        "id": 1,
+        "title": "High On You",
+        "caption": "Basically\u2026 my heart, signed over \ud83d\udc9e",
+        "musicPath": "music/music1.mp3",
+        "startTime": 5,
+        "endTime": null
+      },
+      {
+        "id": 2,
+        "title": "For a Reason",
+        "caption": "I'd still choose you \ud83e\udd0d",
+        "musicPath": "music/music2.mp3",
+        "startTime": 0,
+        "endTime": null
+      },
+      {
+        "id": 3,
+        "title": "Dil ka Jo Haal hai",
+        "caption": "Because feelings happened \ud83d\udc9e",
+        "musicPath": "music/music3.mp3",
+        "startTime": 0,
+        "endTime": null
+      }
+    ],
+    "images": {
+      "background": {
+        "path": "imgs/intro1.png",
+        "resolution": {
+          "width": 1920,
+          "height": 1080
+        }
+      },
+      "musicPlayerIcon": {
+        "path": "imgs/intro2.png",
+        "resolution": {
+          "width": 128,
+          "height": 128
+        }
+      }
+    }
+  },
+  "cards": {
+    "heading": "Little Things I Messed Up (But Care About)",
+    "subheading": "just saying\u2026",
+    "instruction": "Tap to flip \ud83d\udcab",
+    "continueButton": "Next \u2728",
+    "card1Front": "I may have been a little dumb sometimes \ud83e\udd72",
+    "card1BackTitle": "Context:",
+    "card1BackText": "No bad intentions, just bad timing. I'm working on it.",
+    "card1BackEmoji": "\ud83e\udd7a",
+    "card2Front": "You get adorably mad",
+    "card2BackTitle": "Observation:",
+    "card2BackText": "Even when you're upset, you're still my favorite person.",
+    "card3Front": "Coupon: One free hug (redeem anytime) \ud83e\udec2",
+    "card3BackTitle": "I Love You Always",
+    "card3BackText": "Btw, This is Us",
+    "card3BackStamp": "ALWAYS",
+    "card4Front": "Remember us laughing?",
+    "card4BackQuote": "The kind where breathing becomes optional.",
+    "card4BackText": "I want more moments like that. With you.",
+    "images": {
+      "cardBackground": {
+        "path": "imgs/intro1.png",
+        "resolution": {
+          "width": 600,
+          "height": 800
+        }
+      },
+      "card1Image": {
+        "path": "imgs/pic1.jpg",
+        "resolution": {
+          "width": 400,
+          "height": 400
+        }
+      },
+      "card2Image": {
+        "path": "imgs/pic2.jpg",
+        "resolution": {
+          "width": 400,
+          "height": 400
+        }
+      },
+      "card3Image": {
+        "path": "imgs/pic3.jpg",
+        "resolution": {
+          "width": 400,
+          "height": 400
+        }
+      },
+      "card4Image": {
+        "path": "imgs/intro2.png",
+        "resolution": {
+          "width": 400,
+          "height": 400
+        }
+      }
+    }
+  },
+  "finalLetter": {
+    "title": "One Last Thing",
+    "sealingText": "Wrapping this up gently...",
+    "sealButton": "Seal It \ud83d\udc8c",
+    "restartButton": "Restart",
+    "sealedTitle": "Sent With Love",
+    "sealedSubtitle": "You Matter To Me",
+    "typedDefault": "Always \ud83d\udc95",
+    "experienceAgain": "See Again \u2728",
+    "sendKissButton": "Send a Soft Kiss \ud83d\udc8b",
+    "dateLocale": "en-US",
+    "letterGreeting": "Hey love,",
+    "letterParagraphs": [
+      "I might mess up sometimes, but my feelings for you are always real.",
+      "Thank you for your patience, your heart, and being you.",
+      "I hope this reminded you how important you are to me."
+    ],
+    "sealingNote": "This is me, choosing you.",
+    "images": {
+      "seal": {
+        "path": "imgs/letter.png",
+        "resolution": {
+          "width": 256,
+          "height": 256
+        }
+      },
+      "finalLetterBackground": {
+        "path": "imgs/intro2.png",
+        "resolution": {
+          "width": 1200,
+          "height": 1600
+        }
+      },
+      "kissIcon": {
+        "path": "imgs/Aeroplane.png",
+        "resolution": {
+          "width": 64,
+          "height": 64
+        }
+      }
+    }
+  },
+  "common": {
+    "continue": "Next \u2728",
+    "close": "Close",
+    "ok": "Okay \ud83d\udc95"
+  }
+}
